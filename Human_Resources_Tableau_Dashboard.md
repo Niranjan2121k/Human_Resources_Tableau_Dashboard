@@ -60,7 +60,7 @@ This horizontal bar chart displays the total number of employees by job title, h
 
 This visualization helps in workforce planning, identifying critical job functions, and understanding hiring trends within the company.  
 
-<img width="1689" alt="Screenshot 2025-03-16 at 11 26 36 AM" src="https://github.com/user-attachments/assets/5510c81c-d6ed-4ef7-82e7-3b98f3f568d8" />
+<img src="https://github.com/user-attachments/assets/your-image-id" />
 
 ### **Employee Distribution by State**  
 This horizontal bar chart displays the number of employees in different U.S. states, highlighting the states with the highest workforce concentration.
