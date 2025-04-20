@@ -21,7 +21,7 @@ This area chart illustrates the total number of employees hired each year, highl
 
 Understanding these patterns helps in workforce planning and optimizing hiring strategies for future growth.
 
-<img width="1686" alt="Screenshot 2025-03-16 at 11 16 53 AM" src="https://github.com/user-attachments/assets/43b9584c-d008-4940-8a93-9397fafde52b" />
+![](SLIDE_1.PNG)
 
 ### **Termination Trends by Year**  
 This area chart illustrates the number of employees who left the company each year, highlighting termination patterns over time.  
@@ -31,7 +31,7 @@ This area chart illustrates the number of employees who left the company each ye
 - Periods of decline suggest improved retention strategies or lower workforce reductions.  
 - Understanding these trends helps in assessing workforce stability and developing strategies to reduce unwanted attrition.  
 
-<img width="1683" alt="Screenshot 2025-03-16 at 11 17 56 AM" src="https://github.com/user-attachments/assets/f9a48dfc-4ba0-4828-97c1-65ef0fe9f4f4" />
+![](SLIDE_2.PNG)
 
 ### **Employee Distribution and Terminations by Department**  
 This stacked bar chart visualizes the total number of employees in each department, with a breakdown of active and terminated employees.  
@@ -45,8 +45,7 @@ This stacked bar chart visualizes the total number of employees in each departme
 - **HR** has the smallest workforce, with only 152 active employees and 20 terminations, indicating a stable department with minimal attrition.  
 - Departments with higher termination rates may require deeper analysis to understand the causes, such as job satisfaction, workload, or organizational changes.  
 
-This visualization provides a clear comparison of workforce stability across departments, helping in strategic workforce planning.  
-<img width="1631" alt="Screenshot 2025-03-16 at 11 23 52 AM" src="https://github.com/user-attachments/assets/ed4f458f-11e3-4ffb-b0c3-89db8722a993" />
+![](SLIDE_3.PNG)
 
 ### **Employee Count by Job Title**  
 This horizontal bar chart displays the total number of employees by job title, highlighting the most and least populated roles within the organization.  
@@ -60,7 +59,7 @@ This horizontal bar chart displays the total number of employees by job title, h
 
 This visualization helps in workforce planning, identifying critical job functions, and understanding hiring trends within the company.  
 
-<img src="https://github.com/user-attachments/assets/your-image-id" />
+![](SLIDE_4.PNG)
 
 ### **Employee Distribution by State**  
 This horizontal bar chart displays the number of employees in different U.S. states, highlighting the states with the highest workforce concentration.
@@ -74,7 +73,7 @@ This horizontal bar chart displays the number of employees in different U.S. sta
 
 This visualization helps in understanding regional workforce distribution and identifying key employment hubs within the organization.  
 
-<img width="1687" alt="Screenshot 2025-03-16 at 11 27 43 AM" src="https://github.com/user-attachments/assets/a0f0d431-a037-4264-bb99-b205ca2f8be0" />
+![](SLIDE_5.PNG)
 
 ### **Employee Distribution in Michigan Cities**  
 This bar chart presents the distribution of employees in the top three cities within Michigan.
@@ -87,7 +86,7 @@ This bar chart presents the distribution of employees in the top three cities wi
 
 This visualization provides a clear view of workforce concentration across key Michigan cities, which can help with strategic workforce planning and resource allocation.  
 
-<img width="1688" alt="Screenshot 2025-03-16 at 11 28 35 AM" src="https://github.com/user-attachments/assets/22a620b0-d7ac-4bf2-acd8-54788b42a4f1" />
+![](SLIDE_6.PNG)
 
 ### **Headquarters vs. Branch Employee Distribution with Hover Interaction**  
 
@@ -107,7 +106,7 @@ This visualization compares the employee distribution between the **Headquarters
 
 This interactive feature allows users to explore workforce distribution dynamically by hovering over different bars.  
 
-<img width="1688" alt="Screenshot 2025-03-16 at 11 29 44 AM" src="https://github.com/user-attachments/assets/f4e2b0dd-2ef6-4aa6-9632-1ae6f68f0f84" />
+![](SLIDE_7.PNG)
 
 ### **Employee Distribution Across States - Pennsylvania Focus**
 
@@ -127,7 +126,7 @@ This visualization presents an interactive **map of employee distribution** acro
 
 This map provides a **geographic visualization** of workforce distribution, helping in regional analysis and decision-making.
 
-<img width="1642" alt="Screenshot 2025-03-16 at 11 32 07 AM" src="https://github.com/user-attachments/assets/98c29555-78e9-4b7a-ae5a-9aa221cfed0d" />
+![](SLIDE_8.PNG)
 
 ### **Employee Hiring and Termination by Gender**
 
@@ -151,7 +150,7 @@ This visualization presents two **donut charts**, one for **female employees** a
 
 This breakdown provides a **gender-based perspective on workforce dynamics**, helping to analyze **hiring equity and retention trends**.
 
-<img width="1700" alt="Screenshot 2025-03-16 at 11 34 05 AM" src="https://github.com/user-attachments/assets/b8a3771e-5b95-4bb2-bca6-446e2658da5a" />
+![](SLIDE_9.PNG)
 
 ### **Employee Distribution by Age and Education Level**
 
@@ -184,7 +183,7 @@ This **bubble chart** visualizes the distribution of employees based on their **
 
 This visualization helps in understanding **workforce demographics** based on **education level and age**, which can be useful for **hiring strategies and career development planning**.
 
-<img width="1696" alt="Screenshot 2025-03-16 at 11 35 44 AM" src="https://github.com/user-attachments/assets/361f5719-fd3e-4bcf-8914-85b97e166d5a" />
+![](SLIDE_10.PNG)
 
 ### **Employee Distribution by Age Group (Bar Chart)**
 
@@ -204,7 +203,7 @@ This **horizontal bar chart** visualizes the number of employees in different **
 
 This visualization highlights **workforce age demographics**, offering insights for **HR strategies and company policies**.
 
-<img width="1524" alt="Screenshot 2025-03-16 at 11 37 34 AM" src="https://github.com/user-attachments/assets/aa73de51-34e4-4e36-bcab-0b58f567fb18" />
+![](SLIDE_11.PNG)
 
 ### **Employee Distribution by Education Level (Bar Chart)**
 
@@ -222,7 +221,7 @@ This **vertical bar chart** represents the number of employees based on their **
 
 This visualization highlights the **workforce's education distribution**, which is valuable for **talent acquisition and workforce development strategies**.
 
-<img width="1529" alt="Screenshot 2025-03-16 at 11 39 39 AM" src="https://github.com/user-attachments/assets/a87cbbf5-d425-4a7c-bc0b-6dc435811106" />
+![](SLIDE_12.PNG)
 
 ### **Performance Distribution by Education Level (Square Chart)**
 
@@ -257,7 +256,7 @@ This **square chart** visualizes employee performance ratings across different *
 
 This visualization helps in identifying trends between **education levels and performance**, aiding workforce development strategies.
 
-<img width="1528" alt="Screenshot 2025-03-16 at 11 40 45 AM" src="https://github.com/user-attachments/assets/cb65404c-2938-4399-961f-3a48468d59bf" />
+![](SLIDE_13.PNG)
 
 ### **Salary Distribution by Education Level (Bar Chart)**
 
@@ -286,7 +285,7 @@ This **bar chart** visualizes the distribution of **salaries** based on differen
 
 This visualization helps understand how **education level influences salary expectations** in this dataset.
 
-<img width="1687" alt="Screenshot 2025-03-16 at 11 42 12 AM" src="https://github.com/user-attachments/assets/a81e4b08-3e33-481c-9d92-efb19508d933" />
+![](SLIDE_14.PNG)
 
 ### **Salary vs. Age by Job Title (Scatter Plot)**
 
@@ -321,7 +320,7 @@ This **scatter plot** visualizes the relationship between **age**, **salary**, a
 
 This visualization highlights how **career progression influences salary levels** across different age groups.
 
-<img width="1692" alt="Screenshot 2025-03-16 at 11 44 08 AM" src="https://github.com/user-attachments/assets/e14bb00f-4dee-4cc2-a82d-a81460ed364b" />
+![](SLIDE_15.PNG)
 
 # **Features of the Human Resources Dashboard**
 
@@ -354,7 +353,7 @@ This visualization highlights how **career progression influences salary levels*
 
 This dashboard provides **real-time insights into HR metrics**, enabling strategic workforce analysis and decision-making.
 
-<img width="1237" alt="Screenshot 2025-03-16 at 11 48 36 AM" src="https://github.com/user-attachments/assets/a7a8102c-5f97-4a87-a4df-5404398b16f1" />
+![](SLIDE_16.PNG)
 
 
 
